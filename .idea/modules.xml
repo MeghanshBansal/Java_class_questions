@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" filepath="$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generics/Generics.iml" filepath="$PROJECT_DIR$/Generics/Generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiThreading/MultiThreading.iml" filepath="$PROJECT_DIR$/MultiThreading/MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ABSTRACT CLASSES/SOME.iml" filepath="$PROJECT_DIR$/ABSTRACT CLASSES/SOME.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringClass/StringClass.iml" filepath="$PROJECT_DIR$/StringClass/StringClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WrapperClasses/WrapperClasses.iml" filepath="$PROJECT_DIR$/WrapperClasses/WrapperClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class.iml" filepath="$PROJECT_DIR$/class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/new/new.iml" filepath="$PROJECT_DIR$/new/new.iml" />
+    </modules>
+  </component>
+</project>
