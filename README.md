@@ -23,6 +23,9 @@ If the sum is less than 150 throw user defined exception or else display sum.
 3. Write a program to accept numbers from user and handle all the possible unchecked exception that can occur.
 4. Write a program to print a given string character by character and handle StringIndexOutOfBoundsException.
 5. Write a program to handle ClassCastException, by doing explicit casting of Object to Integer.
+6. Write a question which will accept a key-value pair, this function will check, if that pair is present in Hashmap, if present return that entry else throw an user defined NoEntryFound Hashmap, this exception will print a message no record found for a given pair
+        Hashmap contains object of Employee class, and the key Empid for employee
+        Employee class contains some fields int empid, String name, double salary, string emailid
 
 ### String, StringBuilder, StringBuffer
 1. Write a program to concatenate StringBuilder & StringBuffer objects.
