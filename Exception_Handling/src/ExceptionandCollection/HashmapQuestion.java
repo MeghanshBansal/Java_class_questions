@@ -1,4 +1,5 @@
-package Question;//write a question which will accept a key-value pair, this function will check, if that pair is present in Hashmap
+package Question;
+//write a question which will accept a key-value pair, this function will check, if that pair is present in Hashmap
 //if present return that entry else throw an user defined NoEntryFound Hashmap, this exception will print a message no record found for a given pair
 //
 //Hashmap contains object of Employee class, and the key Empid for employee
